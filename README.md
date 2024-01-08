@@ -1,2 +1,2 @@
 # Clockie
-The talking clock which user can ask time 
+The Global Clock which display the request time and date of the place
